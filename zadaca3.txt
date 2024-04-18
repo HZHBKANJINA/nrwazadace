@@ -1,0 +1,5 @@
+D.Z. 1.2 - Laravel relacije -> projektni dio
+
+Za vaš projektni model baze kreirati potpuni CRUD za sve entitete, prikazujući po najmanje 1x realizaciju relacija 1:1, 1:n, n:1, m:n
+
+Koristiti Laravel kao full-stack framework, bez korištenja AJAX ili sličnih JS poziva na frontu/view-ovima, izuzev minimalno potrebnog (ako koristite bootstrap ili sl)

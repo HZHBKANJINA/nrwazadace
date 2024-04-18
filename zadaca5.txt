@@ -1,0 +1,9 @@
+Za razvijena sučelja iz D.Z. 1.3 - Laravel REST API, kreirajte dokumentaciju koristeći pakete:
+swagger  - za studente/timove s parnim rednim brojem projekta/tima  (1,3,5,7...) ili
+scribe - za studente/timove s parnim rednim brojem projekta/tima  (2,4,6,8...)
+
+Uraditi:
+Sve rute vašeg API sučelja (metode unutar kontrolera) uredno i propisno koristeći propisani notaciju/komentare/dockblock-ove, ovisno o pakete koji vam je zadan;
+te generirati dokumentaciju za API sučelje (/api/docs ili api/documentation);
+
+U mom slučaju koristiti swagger
